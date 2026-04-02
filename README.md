@@ -26,6 +26,20 @@ To run this app:
 - Firebase Firestore
 - Web Push API
 
+## Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
+
+| Pairing Screen | Chat Screen |
+|----------------|-------------|
+| ![Pairing](screenshots/pairing.png) | ![Chat](screenshots/chat2.png) |
+
+| Chat Screen |
+|-------------------|
+| ![Chat](screenshots/chat1.png) |
+
 ## Author
 
 Built by Prasad
