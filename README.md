@@ -13,12 +13,12 @@ To run this app:
 
 ## Features
 
-- 🔐 End-to-end encryption
-- 💬 Real-time messaging
-- ⌨️ Live typing indicators
-- 🌓 Dark/Light mode
-- 📱 PWA installable
-- 🔗 6-digit code pairing
+-  End-to-end encryption
+-  Real time messaging
+-  Live typing indicators
+-  Dark/Light mode
+-  PWA installable
+-  6-digit code pairing
 
 ## Tech Stack
 
